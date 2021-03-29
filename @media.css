@@ -1,0 +1,123 @@
+@media screen and (max-width: 2000px) {
+  .fullwidth {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .gray {
+    height: 50%;
+    width: 30%;
+    margin-left: 18%;
+  }
+}
+
+@media screen and (max-width: 1502px) {
+  .text1 {
+    z-index: 20;
+  }
+}
+
+@media screen and (max-width: 1160px) {
+  .revers {
+    position: absolute;
+    margin-left: -10%;
+  }
+}
+
+@media screen and (max-width: 989px) {
+  .revers {
+    position: absolute;
+    margin-left: -190px;
+  }
+}
+
+@media screen and (max-width: 737px) {
+  .revers {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .plant3 {
+    display: none;
+  }
+  .plant4 {
+    display: none;
+  }
+  .plant1 {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 785px) {
+  .squer .icons {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  main {
+    display: none;
+  }
+  .main1 {
+    display: block;
+  }
+  .logo {
+    padding-top: 100px;
+    margin: 0 auto;
+  }
+  .plant {
+    width: 150px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .logo {
+    margin-left: 0px;
+  }
+  .main1 .audi .audi0 img {
+    width: 280px;
+  }
+  .main1 .audi .audi1a {
+    width: 135px;
+  }
+  .main1 .audi .audi1a img {
+    width: 135px;
+  }
+  .main1 .audi .audi1b {
+    width: 135px;
+  }
+  .main1 .audi .audi1b img {
+    width: 135px;
+  }
+  .main1 .niva {
+    width: 280px;
+  }
+  .main1 .niva img {
+    width: 280px;
+  }
+  .main1 .niva .lada {
+    padding-top: 110px;
+  }
+  .main1 .niva .lada span {
+    font-size: 20px;
+  }
+  .main1 .bmw {
+    width: 280px;
+  }
+  .main1 .bmw img {
+    width: 280px;
+  }
+  .main1 .flo img {
+    width: 280px;
+  }
+  .main1 .fon img {
+    width: 80px;
+  }
+}
+/*# sourceMappingURL=@media.css.map */
